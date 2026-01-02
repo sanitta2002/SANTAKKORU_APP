@@ -1,16 +1,39 @@
-# React + Vite
+# Northbound 🎅✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Northbound is an interactive web application inspired by the theme **“Santakkoru App”**.  
+The app allows users to send a wish to Santa and receive a personalized response through a smooth, experience-driven user flow.
 
-Currently, two official plugins are available:
+Instead of a traditional form-based approach, Northbound focuses on **storytelling, animation, and immersive UI**, making the interaction feel magical and engaging.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Send a wish through an interactive UI
+- Santa receives the wish and sends back a personalized response
+- Smooth animations and transitions
+- Experience-first user flow (not just forms)
+- Fully functional end-to-end interaction
+- Responsive design
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- **Frontend:** React  
+- **Styling:** Tailwind CSS  
+- **Animations:** Framer Motion  
+
+---
+
+##  Concept
+
+The goal of this project was to explore how frontend development can go beyond static pages and CRUD operations by creating **meaningful user experiences** using motion, flow, and storytelling.
+
+---
+
+## 📦 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/northbound.git
